@@ -1,0 +1,28 @@
+.a-wrapper{
+    padding: 5%;
+    padding-bottom: 20px;
+    background: linear-gradient(135deg, #3F51B5, #4CAF50);
+    min-height:100vh;
+}
+
+.a-h1{
+    font-size:25px;
+    color:bisque
+}
+
+.a-img{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.a-card{
+    width:250px;
+    text-align:center;
+}
+
+.a-h2{
+    font-size: 20px;
+    color:beige;
+}

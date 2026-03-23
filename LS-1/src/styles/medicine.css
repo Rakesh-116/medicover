@@ -1,0 +1,106 @@
+.bg-container2{
+    background: linear-gradient(135deg, #3F51B5, #4CAF50);
+    min-height: 100vh;
+    padding: 10px;
+}
+
+.up-card{
+    height:40vh;
+}
+
+.m-search{
+    border-radius: 20px 0 0 20px;
+    background-color:white;
+    padding: 15px;
+    width: 58%;
+    border:none;
+    color:black;
+}
+
+.btn{
+    padding: 15px;
+    border-radius: 0 20px 20px 0;
+    background-color: white;
+    border:none;
+    transition: background-color 0.5s ease;
+}
+
+.btn:hover{
+    background-color: rgba(255, 255, 255, 0.406);
+}
+
+.m-card{
+    background-color: white;
+    padding: 20px;
+    overflow-y: scroll;
+    border-radius: 10px;
+    height: 400px;
+    margin:20px;
+}
+
+.m-card::-webkit-scrollbar {
+    width: 0;
+}
+
+.m-sub-card{
+    overflow-y: scroll;
+    height:250px;
+}
+
+.m-sub-card::-webkit-scrollbar {
+    width: 0;
+}
+
+.m-h1{
+    color:black;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.m-p1{
+    color:grey;
+    font-size: 15px;
+}
+
+.m-p2{
+    color:rgb(91, 91, 91);
+    font-size: 20px;
+}
+
+.m-img{
+    width:200px;
+    margin-right:5px;
+    height:250px;
+}
+
+.m-btn1 {
+    color: white;
+    background-color: #007BFF;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+
+.m-btn1:hover {
+    background-color: #0056b3;
+}
+
+.m-btn2 {
+    color: black;
+    background-color: #FFC107;
+    border-radius: 10px;
+    padding: 10px;
+    height:45px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+    text-decoration: none;
+}
+
+.m-btn2:hover {
+    background-color: #d39e00;
+}

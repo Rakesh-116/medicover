@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: 'Montserrat';
+}
+
+.bg-container{
+    background: linear-gradient(135deg, #4CAF50, #3F51B5);
+    height:100vh;
+    padding: 20px;
+}
+
+.card{
+    width: 450px;
+    border-radius:0 0 10px 10px;
+}
+
+.b1{
+    background: linear-gradient(135deg, #3F51B5, #4CAF50);
+    padding:10px;
+    color:white;
+    border-radius:10px 10px 0 0;
+}
+
+.btn1{
+    background: linear-gradient(135deg, #3F51B5, #4CAF50);
+    padding:10px;
+    color:white;
+    border:none;
+    border-radius:5px;
+}
+
+.s-p1{
+    color: black;
+}
+
+.s-p2{
+    color:black;
+    font-size: 12px;
+}

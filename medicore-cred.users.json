@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "66216c1bdf286ff8d1a39051"
+  },
+  "name": "Rakesh",
+  "email": "rakesh@gmail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66216cfd9281acc26bee37cd"
+  },
+  "name": "Abhi",
+  "email": "abhi@gmail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6621ae7a792821245d6786f8"
+  },
+  "name": "Ravi Kumar",
+  "email": "ravi@gmail.com",
+  "password": "12345",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624d8e0168fec8957595036"
+  },
+  "name": "charan",
+  "email": "charan@gmail.com",
+  "password": "charru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625e21cc470553a2f653378"
+  },
+  "name": "Sree Vaatsava",
+  "email": "tvs.vaatsava@gmail.com",
+  "password": "sree@2004",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625f13ec470553a2f653386"
+  },
+  "name": "raju",
+  "email": "raj@gmail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662805ad9599ca19ba611e2e"
+  },
+  "name": "Kumar",
+  "email": "kumar@gmail.com",
+  "password": "12345",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66280b03e678aade03ee54f2"
+  },
+  "name": "charan",
+  "email": "srihaas@gmail",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6628a7d96f2929c2bfd3122d"
+  },
+  "name": "sasanka",
+  "email": "sasanksai98@gmail.com",
+  "password": "sasanka",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6629826c0c38313da6ec34e2"
+  },
+  "name": "Krishna",
+  "email": "Krishna@gmail.com",
+  "password": "1344",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a32dc6ac26b6ce5f1f460"
+  },
+  "name": "Varun Kandoju",
+  "email": "varun@gmail.com",
+  "password": "va",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a3383ef31adedf4e32ebf"
+  },
+  "name": "Monkey. D .Luffy",
+  "email": "luffy10@gmail.com",
+  "password": "strawhats",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a3410a88a7ea34e394cda"
+  },
+  "name": "Jagannadha Shastri",
+  "email": "shastri@gmail.com",
+  "password": "dj",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a36b293de47cd0d691085"
+  },
+  "name": "Ram Raghunathan",
+  "email": "ram@gmail.com",
+  "password": "123456",
+  "__v": 0
+}]

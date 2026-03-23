@@ -1,0 +1,49 @@
+.bg-container1{
+    background: linear-gradient(135deg, #3F51B5, #4CAF50);
+    min-height:100vh;
+}
+
+.c1{
+    height:40vh;
+}
+
+.card1{
+    background-color: white;
+    margin:20px;
+    padding: 20px;
+    border-radius: 20px;
+    height:50vh;
+}
+
+.h-card{
+    padding: 50px 15px 15px 15px;
+    border-radius: 10px;
+    width:320px;
+    margin:13px;
+}
+
+.h-c1{
+    background-color: rgba(0, 191, 255, 0.6);
+}
+
+.h-c2{
+    background-color: rgba(4, 0, 255, 0.6);
+}
+
+.h-c3{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.h-c4{
+    background-color: rgb(234, 0, 255, 0.6);
+}
+
+
+.ho-p1{
+    margin-top:20px;
+}
+
+.ho-h1{
+    font-size: 30px;
+    text-align: left;
+}
